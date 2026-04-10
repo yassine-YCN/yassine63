@@ -23,7 +23,7 @@ import headPhone from "./products/headPhone.webp";
 import roundBowl from "./products/roundBowl.webp";
 import table from "./products/table.webp";
 import watch from "./products/watch.webp";
-import avatar from "./products/avatar.png";
+import avatar from "./avatar.png";
 import contactUs from "./contactUs.jpg";
 
 export {

@@ -25,12 +25,12 @@ const contactInfo = [
   {
     icon: <FaMapMarkerAlt />,
     title: "Visit Our Store",
-    content: ["3065 Broadway Street", "New York, NY 10027", "United States"],
+    content: ["3065 agadir Street", "Agadir, tilila", "Morocco"],
   },
   {
     icon: <FaPhone />,
     title: "Call Us",
-    content: ["Tel: (415) 225-0123", "Toll Free: 1-800-OREBI-US"],
+    content: ["Tel: (+212)637097305", "Toll Free: 212 56764455"],
   },
   {
     icon: <FaEnvelope />,
