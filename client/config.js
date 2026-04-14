@@ -5,7 +5,7 @@ const checkConfig = (server) => {
   switch (server) {
     case "production":
       config = {
-        baseUrl: "https://orebiserver.reactbd.com",
+        baseUrl: "https://yassine63-production.up.railway.app",
       };
       break;
     case "local":
